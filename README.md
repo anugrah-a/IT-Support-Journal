@@ -41,7 +41,6 @@ Each issue includes:
 - DNS / DHCP
 - Group Policy
 - Microsoft Exchange
-- Linux (Basic Administration)
 - Firewall & VPN
 - Backup & Recovery
 - Remote Support Tools
