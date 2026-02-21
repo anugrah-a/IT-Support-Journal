@@ -33,7 +33,7 @@ The user must have:
 ### 1. Active Directory User Creation
 1. Opened **Active Directory Users and Computers (ADUC)**
 2. Navigated to appropriate OU:
-3. 3. Created new user account
+3. Created new user account
 4. Set initial password
 5. Configured password options (as per policy)
 
