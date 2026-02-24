@@ -10,7 +10,6 @@ User reported that emails in Microsoft Outlook were not loading or updating corr
 - Operating System: Windows 11
 - Mail System: Microsoft Exchange
 - Email Client: Microsoft Outlook
-- Role: IT Support Intern
 
 ---
 
