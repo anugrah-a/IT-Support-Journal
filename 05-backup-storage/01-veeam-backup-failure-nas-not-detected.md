@@ -7,7 +7,6 @@
 - Backup Server: Windows Server 2016
 - Backup Software: Veeam Backup & Replication
 - Storage: Network Attached Storage (NAS)
-- Role: IT Support Intern
 
 ---
 
