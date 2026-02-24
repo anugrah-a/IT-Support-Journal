@@ -6,7 +6,6 @@
 - Environment Type: User Workstation
 - Operating System: Windows 10
 - Hardware: 8 GB RAM, HDD Storage
-- Role: IT Support Intern
 
 ---
 
