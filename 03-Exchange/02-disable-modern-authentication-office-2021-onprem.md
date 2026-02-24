@@ -5,9 +5,6 @@ Disable Modern Authentication (ADAL) for Microsoft Outlook (Office 2021 perpetua
 
 ---
 
-## Category
-User Management / Exchange Configuration
-
 ## Environment
 - Environment Type: Production / Lab
 - Mail System: On-Premises Microsoft Exchange
