@@ -6,7 +6,6 @@
 - Environment Type: Production
 - Client OS: Windows 11
 - Email Client: Microsoft Outlook
-- Role: IT Support Intern
 
 ---
 
