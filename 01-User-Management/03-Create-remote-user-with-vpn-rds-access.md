@@ -5,9 +5,6 @@ Provision a new remote user account with domain access, mailbox configuration, V
 
 ---
 
-## Category
-User Management
-
 ## Environment
 - Environment Type: Production / Lab
 - Directory Service: Active Directory
