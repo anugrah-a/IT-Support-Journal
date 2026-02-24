@@ -53,8 +53,8 @@ Added user to required security groups based on role:
 3. Verified mailbox provisioning
 
 ### 4. Workstation Setup
-1. Connected to user workstation via remote support tool
-2. Installed and configured remote access software (if required)
+1. Connected to user workstation via TeamVeiwer
+2. Installed and configured anydesk for future use (if required)
 3. Configured Microsoft Outlook
 4. Checked for Windows and Office updates
 5. Verified domain login
@@ -64,11 +64,11 @@ Added user to required security groups based on role:
 
 ## Verification Checklist
 
-- [ ] User successfully logs into domain
-- [ ] Mailbox accessible via Outlook / OWA
-- [ ] Group membership confirmed
-- [ ] Shared drive access verified
-- [ ] Remote access functioning (if applicable)
+1. User successfully logs into domain
+2. Mailbox accessible via Outlook / OWA
+3. Group membership confirmed
+4. Shared drive access verified
+5. Remote access functioning (if applicable)
 
 ---
 
