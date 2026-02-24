@@ -6,11 +6,10 @@ Disable Modern Authentication (ADAL) for Microsoft Outlook (Office 2021 perpetua
 ---
 
 ## Environment
-- Environment Type: Production / Lab
+- Environment Type: Production
 - Mail System: On-Premises Microsoft Exchange
 - Client: Microsoft Outlook (Office 2021 – Perpetual License)
 - Operating System: Windows 10 / 11
-- Role: IT Support Intern
 
 ---
 
@@ -37,8 +36,8 @@ Ensure Outlook uses traditional authentication (NTLM/Kerberos) instead of Modern
 
 ## Pre-Requisites
 
-- Access to user's computer (remote or physical)
-- Administrative privileges (if required for registry modification)
+- Access to user's computer (remote)
+- Administrative privileges (required for registry modification)
 
 ---
 
