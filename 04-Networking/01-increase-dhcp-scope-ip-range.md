@@ -9,7 +9,6 @@ Expanded the existing DHCP IPv4 scope by increasing the available IP address ran
 - Environment Type: Production
 - Service: DHCP Server
 - Server OS: Windows Server 2019
-- Role: IT Support Intern
 
 ---
 
