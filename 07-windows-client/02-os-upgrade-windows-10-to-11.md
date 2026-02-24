@@ -4,7 +4,6 @@
 - Environment Type: Production
 - Client OS (Before): Windows 10
 - Client OS (After): Windows 11
-- Role: IT Support Intern
 
 ---
 
