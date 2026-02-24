@@ -5,9 +5,6 @@ Create a new shared mailbox in Exchange and assign required user permissions (Fu
 
 ---
 
-## Category
-User Management
-
 ## Environment
 - Environment Type: Production / Lab
 - Directory Service: Active Directory
