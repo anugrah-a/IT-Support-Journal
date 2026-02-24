@@ -4,7 +4,6 @@
 - Environment Type: Client
 - Server OS: Windows Server 2019
 - Service: Remote Desktop Services (RDS)
-- Role: IT Support Intern
 
 ---
 
