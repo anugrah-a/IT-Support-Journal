@@ -6,7 +6,7 @@ Provision a new remote user account with domain access, mailbox configuration, V
 ---
 
 ## Environment
-- Environment Type: Production / Lab
+- Environment Type: Production
 - Directory Service: Active Directory
 - Server OS: Windows Server 2019
 - Mail System: Microsoft Exchange
@@ -99,12 +99,12 @@ Added user to required security groups:
 
 ## Verification Checklist
 
-- [ ] User can log into domain
-- [ ] Mailbox accessible via Outlook / OWA
-- [ ] VPN connection successful
-- [ ] RDS login working
-- [ ] Shared drive access verified
-- [ ] Group membership confirmed
+1. User can log into domain
+2. Mailbox accessible via Outlook / OWA
+3. VPN connection successful
+4. RDS login working
+5. Shared drive access verified
+6. Group membership confirmed
 
 ---
 
