@@ -37,7 +37,7 @@ The existing DHCP scope was fully utilized, causing devices to receive:
 
 1. Opened **DHCP Management Console**
 2. Navigated to: IPv4 → Existing Scope
-3. 3. Reviewed current IP range and utilization
+3. Reviewed current IP range and utilization
 4. Increased the IP address range by adding 50 additional IP addresses
 5. Applied changes
 
