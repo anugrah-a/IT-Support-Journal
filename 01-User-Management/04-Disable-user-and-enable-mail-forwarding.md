@@ -5,7 +5,7 @@ Disable a former employee’s domain account and configure email forwarding to a
 
 ---
 ## Environment
-- Environment Type: Production / Lab
+- Environment Type: Production
 - Directory Service: Active Directory
 - Server OS: Windows Server 2019
 - Mail System: Microsoft Exchange
