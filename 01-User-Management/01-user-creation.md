@@ -4,6 +4,7 @@
 Provision a new domain user account with required access permissions, mailbox configuration, and workstation setup.
 
 ## Environment
+- Environment Type: Production
 - Directory Service: Active Directory
 - Server OS: Windows Server 2019
 - Mail System: Microsoft Exchange
